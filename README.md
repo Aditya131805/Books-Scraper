@@ -145,3 +145,11 @@ This project is for educational purposes.
 ## 🙌 Acknowledgment
 
 Data source: https://books.toscrape.com/
+
+---
+
+
+## 👤 Author
+
+**Aditya Gupta**  
+[GitHub](https://github.com/Aditya131805) · [LinkedIn](https://www.linkedin.com/in/aditya-gupta-771396331/)
