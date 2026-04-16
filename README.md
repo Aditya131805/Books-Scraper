@@ -39,8 +39,6 @@ books-scraper/
 │── main.py
 │── requirements.txt
 │── README.md
-│── Scraped_Books_Data.xlsx   (generated)
-│── Scraped_Books_Data.csv    (generated)
 ```
 
 ---
